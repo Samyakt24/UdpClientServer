@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: agent47
+  agent47
 
 steps:
 - script: echo Hello, world!
